@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 7aaa8c73254ea0942b408b55c243d17c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6494534322764386128
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_0
+  - first:
+      213: -4401219935549899179
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_1
+  - first:
+      213: -5212905424866363917
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_2
+  - first:
+      213: -1058479957406671112
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_3
+  - first:
+      213: -4857248182712215577
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_4
+  - first:
+      213: -6183408517239103872
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_5
+  - first:
+      213: 8066918322990872931
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_6
+  - first:
+      213: 8623773878849185770
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_7
+  - first:
+      213: -3355407616902582187
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_8
+  - first:
+      213: 1179697361390803645
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_9
+  - first:
+      213: -253279948704034685
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_10
+  - first:
+      213: -2734567460415467243
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_11
+  - first:
+      213: 322455872438910333
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_12
+  - first:
+      213: 6708293381218378220
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_13
+  - first:
+      213: -3651103414680898111
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_14
+  - first:
+      213: -2107602066585552193
+    second: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 42
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f04f99e88312a50800000000000000
+      internalID: 6494534322764386128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 42
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e3e2b89c9bbe2c0800000000000000
+      internalID: -4401219935549899179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 42
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5322f922a08a7b0800000000000000
+      internalID: -5212905424866363917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 42
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe97e836168f41f0800000000000000
+      internalID: -1058479957406671112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 42
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d68b3386979cb0800000000000000
+      internalID: -4857248182712215577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 42
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e96d4f6be103aa0800000000000000
+      internalID: -6183408517239103872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 42
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f5f1797373ff60800000000000000
+      internalID: 8066918322990872931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 42
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72910f6accda770800000000000000
+      internalID: 8623773878849185770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550b1e5dc823f61d0800000000000000
+      internalID: -3355407616902582187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1a28ff702f5010800000000000000
+      internalID: 1179697361390803645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38054c48a3b2c7cf0800000000000000
+      internalID: -253279948704034685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5111893126ddc0ad0800000000000000
+      internalID: -2734567460415467243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7db57458e7997400800000000000000
+      internalID: 322455872438910333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce120a4c945a81d50800000000000000
+      internalID: 6708293381218378220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5bab9e9cca45dc0800000000000000
+      internalID: -3651103414680898111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Mini-UFO_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf945461b40c2e0800000000000000
+      internalID: -2107602066585552193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

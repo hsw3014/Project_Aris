@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2920689763300316662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8903024561000691373, guid: b53f0d15179e0184197afc2ea91158b1,
+    type: 3}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2920689763300316660}
+  - component: {fileID: 2920689763300316663}
+  m_Layer: 0
+  m_Name: SpawnManager_Air
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2920689763300316660
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8903024561000691375, guid: b53f0d15179e0184197afc2ea91158b1,
+    type: 3}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2920689763300316662}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.8011374, y: 4.222512, z: -8.349331}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2920689763300316663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8903024561000691372, guid: b53f0d15179e0184197afc2ea91158b1,
+    type: 3}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2920689763300316662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd841838f8063904b8077ce15993e30e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SwitchPrefab: {fileID: 7376052302175134312, guid: 3a7cafeb048178f4da1de0affc092d91,
+    type: 3}
+  obstaclePrefab: {fileID: 987594709782275734, guid: d604ae80d892a274c87f10ab90c8d7b7,
+    type: 3}
+  AirSwitchPrefab: {fileID: 7376052302175134312, guid: 33833314c9c02f940aac02237810cdcb,
+    type: 3}
